@@ -1,0 +1,17 @@
+.border
+{
+    border: 2px solid black;
+    width: 100%;
+}
+
+td 
+{
+    border: 2px solid black;
+    
+}
+
+tr
+{
+    border: 2px solid black;
+    
+}
